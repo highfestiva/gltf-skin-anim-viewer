@@ -1,0 +1,7 @@
+moderngl
+moderngl-window
+numba
+numpy
+PyGLM
+pygltflib
+scipy
